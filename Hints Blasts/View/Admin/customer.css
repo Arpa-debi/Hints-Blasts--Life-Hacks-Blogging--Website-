@@ -1,0 +1,29 @@
+body{
+background-color:#d0d9f7;
+}
+    .container{
+margin-left: 300px;
+	
+}
+
+.container .table{
+	border-collapse: collapse;
+	margin: 25px 0;
+	font-size: 20px;
+	width: 100%;
+
+}
+
+.table thead tr{
+	background-color: #009879;
+	color: #fff;
+	text-align: left;
+}
+
+.table tbody tr:nth-child(even){background-color: #f3f3f3}
+
+.btn{
+	background-color: #8ad1b9;
+	height: 20px;
+	
+}

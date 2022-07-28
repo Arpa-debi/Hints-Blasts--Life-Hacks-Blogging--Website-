@@ -1,0 +1,135 @@
+body {
+	background: #d0d9f7;
+	}
+.container{
+	height: 100%;
+	width: 1200px;
+	background-color: #8ad1b9;
+	margin-top: 5%;
+	margin-left: 10%;
+	position: absolute;
+	margin-top: 82px;
+}
+.container .left{
+	height: 109%;
+	width: 200px;
+	float: left;
+	border: 5px solid white;
+	margin: auto 0;
+	text-align: center;
+	background-color: #d0d9f7;
+	
+}
+.container .right{
+	height: 109%;
+	width: 990px;
+	float: left;
+	border:#8ad1b9;
+	margin: auto 0;
+	position: relative;
+	background-color: white;
+
+}
+
+.container .right .upload{
+	height: 50%;
+	width: 982px;
+	float: left;
+	border: 5px solid#8ad1b9 ;
+	margin: auto 0;
+	position: relative;
+	background-color: white;
+	text-align: center;
+
+
+
+}
+.upload h1{
+	margin-right: 89%;
+}
+
+.container .right .uploaad img{
+	width: 10px;
+    margin-top: 3%;
+	margin: auto 0 ;
+	border-radius: 50%;
+}
+.container .right .info{
+	min-height: 80%;
+	width: 982px;
+	height: auto;
+	float: left;
+	border: 5px solid#8ad1b9;
+	margin: auto 0;
+	position: relative;
+	background-color: white;
+    text-align: center;
+    overflow: auto;
+
+
+}
+.search{
+    margin-left: 440% ;
+     width: 160%;
+    height: 36px;
+    margin-top: 30%;
+  }
+.button{
+    margin-left: 1100% ;
+    width: 190%;
+    height: 43px;
+    margin-top: 50px;
+    background-color: #8ad1b9;
+    border-color: #8ad1b9;
+    Color: white;
+    
+     }
+
+#img1 {
+    height: 50px;
+     width: 40px;
+     margin-left: 150px;
+     margin-top: 30%;
+     border-radius: 10px;
+}
+
+textarea{
+    position: absolute;
+    height: 7%;
+    width: 50%;
+    border-radius: 20px;
+    background-color: #d0d9f7;
+    margin-left: 8px;
+}
+textarea::placeholder{
+    font-size: 17px;
+    padding-left: 5px;
+    
+}
+i{
+    padding: 5px;
+    margin-top: 15px;
+    }
+#i1{
+ margin-left: 220px;   
+}
+#i2{
+ margin-left: 50px;   
+}
+#i3{
+ margin-left: 50px;   
+}
+
+#vlog{
+
+	margin-top: 3%;
+	border-radius: 13%;
+	cursor: pointer;
+	width: 400px;
+	border: 3px solid black;
+}
+.info h1{
+	margin-right: 75%;
+	font-size: 30px;
+}
+

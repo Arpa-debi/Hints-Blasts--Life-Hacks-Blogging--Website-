@@ -1,0 +1,128 @@
+body {
+	background: #d0d9f7;
+	}
+.container{
+	height: 90%;
+	width: 1200px;
+	background-color: #d0d9f7;
+	margin-top: 5%;
+	margin-left: 16%;
+	position: absolute;
+}
+.container .left{
+	height: 90%;
+	width: 210px;
+	float: left;
+	border: 5px solid white;
+	margin: auto 0;
+	text-align: center;
+	background-color: #8ad1b9;
+	
+}
+
+.container .right{
+	height: 90%;
+	width: 970px;
+	float: left;
+	border:#8ad1b9;
+	margin: auto 0;
+	position: relative;
+	background-color: white;
+	border: 5px solid#8ad1b9;
+}
+
+.container .right  h2{
+	margin-top: 10%;
+	margin-left: 5%;
+	font-size: 30px;
+	box-sizing: border-box;
+	border: 0px;
+
+}
+
+.right label{
+	margin-left: 5%;
+	font-size: 20px;
+}
+ #fname{
+  margin-left: 1.8%;
+  width: 200px;
+  background: transparent;
+  outline: none;
+  border: 0px;
+  font-size: 20px;
+
+}
+
+#lname{
+	 margin-left: 5%;
+	 width: 200px;
+	 background: transparent;
+     outline: none;
+     border: 0px;
+     font-size: 20px;
+     
+}
+#email{
+	margin-left: 5%;
+	width: 200px;
+	background: transparent;
+     outline: none;
+     border: 0px;
+     font-size: 20px;
+}
+#no{
+  margin-left: 1%;
+  width: 200px;
+  background: transparent;
+     outline: none;
+     border: 0px;
+     font-size: 20px;
+}
+#country{
+ margin-left: 4%;
+ width: 200px;
+ background: transparent;
+     outline: none;
+     border: 0px;
+     font-size: 20px;
+}
+#city{
+  margin-left: 10.5%;
+  width: 200px;
+  background: transparent;
+     outline: none;
+     border: 0px;
+     font-size: 20px;
+}
+#add{
+ margin-left: 4.5%;
+ width: 200px;
+ background: transparent;
+     outline: none;
+     border: 0px;
+     font-size: 20px;
+     font-size: 20px;
+}
+
+#gen{
+	margin-left: 5.5%;
+    width: 200px;
+    background: transparent;
+     outline: none;
+     border: 0px;
+     font-size: 20px;
+
+}
+
+
+
+
+.right h4{
+	margin-left: 5%;
+}
+
+#img1{
+	width: 170px;
+	border-radius: 50%;
+}

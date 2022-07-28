@@ -1,0 +1,156 @@
+.container{
+  background-color: #d0d9f7;
+  width: 100%;
+  min-Height: 380vh;
+  height: auto;
+  overflow: auto;
+
+}
+
+#header-img{
+     height: 12%;
+   width: 13%;
+    display: block;
+    margin-left: 43%;
+  
+    
+}
+.search{
+    margin-left: 440% ;
+     width: 160%;
+    height: 36px;
+    margin-top: 30%;
+  }
+.button{
+    margin-left: 1100% ;
+    width: 190%;
+    height: 43px;
+    margin-top: 50px;
+    background-color: #8ad1b9;
+    border-color: #8ad1b9;
+    Color: white;
+    
+     }
+
+#img1 {
+    height: 50px;
+     width: 40px;
+     margin-left: 150px;
+     margin-top: 30%;
+     border-radius: 10px;
+}
+
+textarea{
+    position: absolute;
+    height: 7%;
+    width: 30%;
+    border-radius: 20px;
+    background-color: #d0d9f7;
+    margin-left: 8px;
+}
+textarea::placeholder{
+    font-size: 17px;
+    padding-left: 5px;
+    
+}
+i{
+    padding: 5px;
+    margin-top: 15px;
+    }
+#i1{
+ margin-left: 220px;   
+}
+#i2{
+ margin-left: 50px;   
+}
+#i3{
+ margin-left: 50px;   
+}
+#txt{
+    diplay: inline-block;
+     margin-left:180% ;
+     font-size: large;
+     font-family: Lucida Console;
+     margin-top: 30%;
+}
+
+.box-container {
+    height: 60%;
+  display: grid;
+
+  }
+  #box-1 {
+    width: 70%;
+    height: 80%;
+    position: absolute;
+    margin-top: 10% ;
+    display: flex;
+    
+  }
+  #T1{
+  color: black;
+ margin-left: 7%;
+  font-size: 32px;
+  margin-top: 3%;
+  font-family: bold;
+  font-size: 36px;
+}
+
+#p1{
+    font-family: 'Source Sans Pro', sans-serif;;
+     margin-left: 7%;
+    font-size: 20px;
+}
+#travel{
+    
+    width: 27%;
+    height:62%;
+    
+     object-fit:fill;
+    }
+
+    .button1{
+        margin-left: 40%;
+        width: 50%;
+    height: 43px;
+    background-color: #8ad1b9;
+    border-color: #8ad1b9;
+    Color: white;
+    }
+    #box-2 {
+    width: 70%;
+    height: 80%;
+    position: absolute;
+    margin-top: 48% ;
+    display: flex;
+    
+  }
+
+
+    #box-5{
+    width: 27%;
+    height: 60%;
+    position: absolute;
+    margin-top: 20% ;
+    margin-left: 68% ;
+    
+    
+  }
+  #T5{
+  color: black;
+ margin-left: 30%;
+  font-size: 32px;
+  margin-top: 3%;
+  font-size: 15px;
+}
+
+#about{
+  width: 60%;
+  height: 30%;
+  border-radius: 50%;
+   margin-left: 35%;
+}
+
+#story{
+     margin-left: 45%;
+}

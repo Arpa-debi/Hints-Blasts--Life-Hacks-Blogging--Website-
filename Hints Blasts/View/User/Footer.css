@@ -1,0 +1,29 @@
+.footer{
+	
+	position: relative;
+           
+            bottom: 0;
+            width: 100%;
+ 
+	left: 0;
+	right: 0;
+	}
+
+	.social-media{
+	width: 90%;
+	display: flex;
+	justify-content: flex-end;
+}
+.social-media i{
+	margin:10px;
+	color: black;
+}
+
+#text{
+	color: black;
+	font-family:monospace;
+	size: 10px;
+}
+span{
+	color: black;
+}

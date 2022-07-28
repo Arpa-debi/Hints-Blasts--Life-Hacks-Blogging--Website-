@@ -1,0 +1,82 @@
+body{
+	background-color: #d0d9f7;
+}
+
+.container2{
+	background-color:#fff ;
+	position: absolute;
+	width: 70vh;
+	height: 80%;
+	margin-top: 8%;
+	margin-left: 32%;
+	border:solid #8ad1b9;
+	border-radius: 10px;
+    
+}
+h1{
+	text-align: center;
+	color:#8ad1b9 ;
+}
+
+#createe{
+	position: absolute;
+	margin-top: 8%;
+	margin-left: 24%;
+}
+
+#write{
+	margin-left: 24%;
+	height: 40%;
+	width: 50%;
+	margin-top: 6%;
+}
+
+
+#blog{
+	margin-left: 24%;
+	height: 4%;
+	margin-top: 5%;
+	width: 50%;
+	
+	
+	
+}
+
+
+#post{
+	margin-left: 24%;
+	height: 6%;
+	width: 50%;
+	margin-top: 7%;
+}
+
+
+.post-log{
+	width: 20%;
+	height: 8%;
+	padding: 10px 30px;
+	cursor: pointer;
+	display: block;
+	margin-top: 8%;
+	margin-left: 40%;
+	background: #8ad1b9;
+	border: 0;
+	outline: none;
+	border-radius: 30px;
+}
+.post-log h1{
+	font-size: 20px;
+}
+i{
+    padding: 5px;
+    margin-top: 3px;
+    }
+#i1{
+ margin-left: 150px;   
+}
+#i2{
+ margin-left: 50px;   
+}
+#i3{
+ margin-left: 50px;   
+}

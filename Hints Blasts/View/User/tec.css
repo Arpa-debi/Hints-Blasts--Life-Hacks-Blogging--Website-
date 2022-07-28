@@ -1,0 +1,45 @@
+body {
+	background: #d0d9f7;
+	}
+.container{
+	position: absolute;
+	min-height: 100%;
+	width: 1300px;
+	background-color: #d0d9f7;
+    margin-left: 14%;
+    height: auto;
+    overflow: auto;
+	}
+
+  
+.image{
+	height: 350px;
+	width: 500px;
+	float: left;
+	border:#8ad1b9;
+	margin: auto 0;
+	position: absolute;
+	background-color: white;
+	border: 5px solid#8ad1b9;
+
+}
+.image #img4{
+	height: 350px;
+	width: 1100px;
+	
+}
+.right{
+	min-height: 1000px;
+	width: 1100px;
+	float: left;
+	border:#8ad1b9;
+	margin: auto 0;
+	position: absolute;
+	background-color: white;
+	border: 5px solid#8ad1b9;
+	height: auto;
+	overflow: auto;
+}
+
+
+

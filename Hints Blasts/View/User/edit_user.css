@@ -1,0 +1,116 @@
+body {
+	background: #d0d9f7;
+	}
+.container{
+	height: 90%;
+	width: 1200px;
+	background-color: #d0d9f7;
+	margin-top: 5%;
+	margin-left: 16%;
+	position: absolute;
+}
+.container .left{
+	height: 90%;
+	width: 210px;
+	float: left;
+	border: 5px solid white;
+	margin: auto 0;
+	text-align: center;
+	background-color: #8ad1b9;
+	
+}
+
+.container .right{
+	height: 90%;
+	width: 970px;
+	float: left;
+	border:#8ad1b9;
+	margin: auto 0;
+	position: relative;
+	background-color: white;
+	border: 5px solid#8ad1b9;
+}
+
+.container .right  h2{
+	margin-top: 10%;
+	margin-left: 5%;
+	font-size: 30px;
+}
+
+.right label{
+	margin-left: 5%;
+	font-size: 20px;
+}
+ #fname{
+  margin-left: 1.8%;
+  border: 3px solid black;
+  width: 200px;
+}
+
+#lname{
+	 margin-left: 5%;
+	 border: 3px solid black;
+	 width: 200px;
+}
+#email{
+	margin-left: 5%;
+	border: 3px solid black;
+	width: 200px;
+}
+#no{
+  margin-left: 1%;
+  border: 3px solid black;
+  width: 200px;
+}
+#country{
+ margin-left: 4%;
+ border: 3px solid black;
+ width: 200px;
+}
+#city{
+  margin-left: 10.5%;
+  border: 3px solid black;
+  width: 200px;
+}
+#add{
+ margin-left: 4.5%;
+ border: 3px solid black;
+ width: 200px;
+}
+
+#gen{
+	margin-left: 5.5%;
+    border: 3px solid black;
+    width: 200px;
+}
+
+.update{
+	width: 30%;
+	height: 5%;
+	cursor: pointer;
+	display: block;
+	margin: auto;
+	background: #8ad1b9;
+	border: 0;
+	outline: none;
+	border-radius: 30px;
+	margin-top: 10%;
+}
+
+.update h1{
+	margin-top: 1%;
+	font-size: 25px;
+}
+
+.gen{
+
+}
+.right h4{
+	margin-left: 5%;
+}
+
+
+#img1{
+	width: 170px;
+	border-radius: 50%;
+}
